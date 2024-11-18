@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Chloe-Tang-1512
-- 👀 I’m interested in quantum physics
-- 🌱 I’m currently learning lots of things
-- 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Chloe-Tang-1512.
+- 👀 I’m interested in quantum physics.
+- 🌱 I’m currently learning lots of things.
+- 💞️ I’m looking to collaborate on anything.
+- 📫 How to reach me: Gmail or Outlook.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
