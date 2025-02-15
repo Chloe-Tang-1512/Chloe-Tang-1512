@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning lots of things.
 - 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me: Gmail or Outlook.
-- 😄 Pronouns: ...
+- 😄 Pronouns: she, her
 - ⚡ Fun fact: ...
 
 <!---
