@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me: Gmail or Outlook.
 - 😄 Pronouns: she, her
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I don't like profanity...
 
 <!---
 Chloe-Tang-1512/Chloe-Tang-1512 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
